@@ -5,7 +5,7 @@
 As a dedicated Computer Science engineering student, I am continuously refining my expertise in software development and actively seeking out innovative technologies. My ardor lies in the realm of Linux, particularly in utilizing command lines, which I consider to be my forte.
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=s0m3n&label=Profile%20views&color=32CD32&style=flat" alt="s0m3n" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=som3n&label=Profile%20views&color=32CD32&style=flat" alt="som3n" /> </p>
 
 <img align="right" alt="Coding" width="400" style="padding-bottom:20px" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47rype07h8d7sro4wqu8sv4j0rr5lgrvb7uoeupgkp&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
@@ -23,7 +23,7 @@ As a dedicated Computer Science engineering student, I am continuously refining 
 
 <p align = "center">
 
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://github.com/s0m3n/) 
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://github.com/som3n/) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/somensamantacse/)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/kuro_coder_sam/)
 </p>
@@ -61,15 +61,15 @@ As a dedicated Computer Science engineering student, I am continuously refining 
 <br/>
 
 <p align="center">
-    <a href="https://github.com/S0M3N/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Somen's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=S0M3N&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/som3n/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Somen's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=som3n&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/S0M3N/github-readme-stats"><img alt="Somen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=S0M3N&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/S0M3N/github-readme-stats"><img alt="Somen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S0M3N&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/som3n/github-readme-stats"><img alt="Somen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=som3n&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/som3n/github-readme-stats"><img alt="Somen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=som3n&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
